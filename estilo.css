@@ -1,0 +1,20 @@
+/*reset*/
+*{box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  color: white;
+}
+.list {
+    font-size: 30px;
+    font-family: ;
+}
+
+section {
+    background-color: tomato;
+    font;
+}
+
+
+header {
+    background-color: deepskyblue;
+}
